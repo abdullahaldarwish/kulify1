@@ -1,0 +1,2227 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "xDkXeqwM6Bb1PHOoxc-OR3UwQUY",
+    "nextPageToken": "CDIQAA",
+    "pageInfo": {
+      "totalResults": 60,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#playlist",
+        "etag": "-suKGyUbVVhcdD9TEDIvl1nKfDg",
+        "id": "PLkLIIYo0Lm4vviVM5uvFmX9JVWeh8wGm_",
+        "snippet": {
+          "publishedAt": "2023-03-15T05:17:03Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "الصيام من الروض المربع",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jCY-GGE8IoI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jCY-GGE8IoI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jCY-GGE8IoI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jCY-GGE8IoI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jCY-GGE8IoI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "الصيام من الروض المربع",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 3
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "DCtLYpBEZN-myaAYqnFNxgtLpuo",
+        "id": "PLkLIIYo0Lm4uvJnG51qEf6uL3zC3bcz1O",
+        "snippet": {
+          "publishedAt": "2023-03-14T12:58:38Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "مقاطع قناة قطوف",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/s4fe2cd5sD8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/s4fe2cd5sD8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/s4fe2cd5sD8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/s4fe2cd5sD8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/s4fe2cd5sD8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "مقاطع قناة قطوف",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 12
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "qpVTRHnaGh-2dNNfiDqWjFjgwo8",
+        "id": "PLkLIIYo0Lm4utQUxzYKm-Tpch44CheUGs",
+        "snippet": {
+          "publishedAt": "2023-02-28T10:36:42Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "الرد على الما بعدية !",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qZKnJhEgiLk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qZKnJhEgiLk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qZKnJhEgiLk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qZKnJhEgiLk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "الرد على الما بعدية !",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 4
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "1nkvfFEM_C04lz-8UGxgB73EDBU",
+        "id": "PLkLIIYo0Lm4t_TaZ9UfWbZ-o4Jaq75xTG",
+        "snippet": {
+          "publishedAt": "2023-02-23T18:13:24Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح كشف الشبهتين لابن سحمان",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Kyc1yJn4Ngw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Kyc1yJn4Ngw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Kyc1yJn4Ngw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Kyc1yJn4Ngw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Kyc1yJn4Ngw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح كشف الشبهتين لابن سحمان",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 7
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "nHzOxapBHnaOp_Ok_SXeedIemaY",
+        "id": "PLkLIIYo0Lm4tfN5YQU_HodS2pTSuq1Mav",
+        "snippet": {
+          "publishedAt": "2023-02-14T09:24:01Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "مقاطع قصيرة حالات",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nK0CNJ8J_0k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nK0CNJ8J_0k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nK0CNJ8J_0k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nK0CNJ8J_0k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nK0CNJ8J_0k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "مقاطع قصيرة حالات",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 8
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "AVAKayq9cxlBv8Ke8Ci2i-2TKdM",
+        "id": "PLkLIIYo0Lm4tEMWA4bddQ6zFbXufgsnuf",
+        "snippet": {
+          "publishedAt": "2023-02-08T10:56:58Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح أخبار الشيوخ وأخلاقهم للمروذي",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sAG0Z58ByTc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sAG0Z58ByTc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sAG0Z58ByTc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sAG0Z58ByTc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sAG0Z58ByTc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح أخبار الشيوخ وأخلاقهم للمروذي",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 5
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "wipQmHmmcYPY3pdkgu_W-AWwsCs",
+        "id": "PLkLIIYo0Lm4s9GdZ4yhpxAGhwsmdHolD9",
+        "snippet": {
+          "publishedAt": "2023-01-16T09:58:28Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "مفيد المستفيد في كفر تارك التوحيد",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NxifQnBCt8Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NxifQnBCt8Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NxifQnBCt8Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NxifQnBCt8Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NxifQnBCt8Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "مفيد المستفيد في كفر تارك التوحيد",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 4
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "xShe8pzNAwvPIA4qKSOgBo6UdAg",
+        "id": "PLkLIIYo0Lm4vYhD6f-kGQCS23zA_BgOo7",
+        "snippet": {
+          "publishedAt": "2022-11-21T18:21:46Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح كتاب التوحيد من صحيح البخاري",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/39uh-opLX4Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/39uh-opLX4Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/39uh-opLX4Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/39uh-opLX4Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/39uh-opLX4Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح كتاب التوحيد من صحيح البخاري",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 9
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "fYLq2gH6askzGXurcj2cMZ0lGpU",
+        "id": "PLkLIIYo0Lm4tL-7JvB2l7S_A6DgGKbk_o",
+        "snippet": {
+          "publishedAt": "2022-11-21T09:03:40Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "جامع الردود على فايز الكندري",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qyvHuqxD_wo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qyvHuqxD_wo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qyvHuqxD_wo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qyvHuqxD_wo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qyvHuqxD_wo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "جامع الردود على فايز الكندري",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 49
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "FLVhNKMZzXIFEP3lc7Z4ra_X4No",
+        "id": "PLkLIIYo0Lm4uhKrZdHoMW_djeMDfw6aKT",
+        "snippet": {
+          "publishedAt": "2022-10-05T04:01:55Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "السنة لعبد الله بن أحمد",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tvhs_I3qz2U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tvhs_I3qz2U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tvhs_I3qz2U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tvhs_I3qz2U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tvhs_I3qz2U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "السنة لعبد الله بن أحمد",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 44
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "2MFdu25wvNu2aXQ7whuPkcschIw",
+        "id": "PLkLIIYo0Lm4tABf3QAsfmuvuwxEf4g5QP",
+        "snippet": {
+          "publishedAt": "2022-09-05T16:13:16Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح الإبانة الصغرى لابن بطة",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/epssgRIVA40/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/epssgRIVA40/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/epssgRIVA40/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/epssgRIVA40/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح الإبانة الصغرى لابن بطة",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 10
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "S2TUKm59cc0Kbp9ccjae-bP68gY",
+        "id": "PLkLIIYo0Lm4sXqT_llN7cN1rq76AXWQw8",
+        "snippet": {
+          "publishedAt": "2022-08-24T14:21:59Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "كتب شيخ الإسلام ابن تيمية",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dgfVI22hf6U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dgfVI22hf6U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dgfVI22hf6U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dgfVI22hf6U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dgfVI22hf6U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "كتب شيخ الإسلام ابن تيمية",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 5
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "wlwp9MrQNAyp55hLs1BY0J0KSi0",
+        "id": "PLkLIIYo0Lm4s_0UAbu5UZfdGKEEx4caWS",
+        "snippet": {
+          "publishedAt": "2022-08-21T16:27:43Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "الأنثى وأحوالها",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5pF8xyNXYnA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5pF8xyNXYnA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5pF8xyNXYnA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5pF8xyNXYnA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5pF8xyNXYnA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "الأنثى وأحوالها",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 29
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "FZP57ermlb0puvkLIVjYcWbxIig",
+        "id": "PLkLIIYo0Lm4sizZG1eWWnYKe4ulE5rPxE",
+        "snippet": {
+          "publishedAt": "2022-06-06T11:00:57Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح كتاب التوحيد",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wBUJlK70Yus/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wBUJlK70Yus/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wBUJlK70Yus/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wBUJlK70Yus/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wBUJlK70Yus/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح كتاب التوحيد",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 35
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "w89CxR9C9x1RNO7eLam54DIfkUs",
+        "id": "PLkLIIYo0Lm4sAztsf8MC4vRz21Au7jjZl",
+        "snippet": {
+          "publishedAt": "2022-05-09T04:58:19Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح كتاب أصول الإيمان",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0dk26xiL7N8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0dk26xiL7N8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0dk26xiL7N8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0dk26xiL7N8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0dk26xiL7N8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح كتاب أصول الإيمان",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 9
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "02StkpSFaO4gE4KyuHF9Zp9Pt1k",
+        "id": "PLkLIIYo0Lm4ui6qsJ8ym4OGiMO3pTAQTl",
+        "snippet": {
+          "publishedAt": "2022-04-16T01:56:37Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح كتب الحافظ ابن أبي الدنيا",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tLF1P2QEI8E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tLF1P2QEI8E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tLF1P2QEI8E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tLF1P2QEI8E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tLF1P2QEI8E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح كتب الحافظ ابن أبي الدنيا",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 8
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "tc0FQglkTbCe0hVH_OTQP9QxAME",
+        "id": "PLkLIIYo0Lm4ue3GR8of2PLEYPSqHTVIII",
+        "snippet": {
+          "publishedAt": "2022-04-05T22:36:34Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "تفسير ابن أبي حاتم",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/x05wVbc8Sc8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/x05wVbc8Sc8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/x05wVbc8Sc8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/x05wVbc8Sc8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/x05wVbc8Sc8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "تفسير ابن أبي حاتم",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 10
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "HJewqeTMsYbSOJMGsIP0_GuYsUM",
+        "id": "PLkLIIYo0Lm4tvdUMN4yTQHW5QRWYjoVP_",
+        "snippet": {
+          "publishedAt": "2022-02-02T07:18:15Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "سلسلة فوائد من تاريخ الإسلام",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5wLeXtJweJM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5wLeXtJweJM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5wLeXtJweJM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5wLeXtJweJM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5wLeXtJweJM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "سلسلة فوائد من تاريخ الإسلام",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 51
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "oGzrEjO0BovtENWAo_LXm89b6jI",
+        "id": "PLkLIIYo0Lm4t3JN2wdJ82Z1FsarMO25ak",
+        "snippet": {
+          "publishedAt": "2022-02-02T07:17:59Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح الرد على الزنادقة والجهمية",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3CEQgEtiEz4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3CEQgEtiEz4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3CEQgEtiEz4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3CEQgEtiEz4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3CEQgEtiEz4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح الرد على الزنادقة والجهمية",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 13
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "t_9_-xhEvMVRhSO2Qg90xZPoAKI",
+        "id": "PLkLIIYo0Lm4s_pUblWa7QwYiuNpWvF3Am",
+        "snippet": {
+          "publishedAt": "2021-10-25T08:21:47Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "صوتيات قناة المواد العلمية",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CHhsIZyCuIY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CHhsIZyCuIY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CHhsIZyCuIY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CHhsIZyCuIY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CHhsIZyCuIY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "صوتيات قناة المواد العلمية",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 2
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "35l7Z30fZ9xUOvLkvX813FWI3b0",
+        "id": "PLkLIIYo0Lm4u5Wv68QC-QA73ZNqPZoqQF",
+        "snippet": {
+          "publishedAt": "2021-10-25T08:18:45Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "#سلسلة_أسئلة_منتقاة",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WCaSZsaDDMI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WCaSZsaDDMI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WCaSZsaDDMI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WCaSZsaDDMI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WCaSZsaDDMI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "#سلسلة_أسئلة_منتقاة",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 26
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "UdD7v0xJFlRk1_LACw9wJL7AVlw",
+        "id": "PLkLIIYo0Lm4vXKn5mha3TuY8uwGzFdo-c",
+        "snippet": {
+          "publishedAt": "2021-09-26T08:40:37Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "الأمر بالعروف للخلال",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jD51KcvYjTI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jD51KcvYjTI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jD51KcvYjTI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jD51KcvYjTI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jD51KcvYjTI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "الأمر بالعروف للخلال",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 4
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "FQGBzVS7Msk7nnFsgLX-wICkNPI",
+        "id": "PLkLIIYo0Lm4sJtwPMeCI_sfIrEgPue9Zb",
+        "snippet": {
+          "publishedAt": "2021-07-11T22:03:54Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "بوت الأسئلة العامة في تيليجرام",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZnlXYICDuYo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZnlXYICDuYo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZnlXYICDuYo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZnlXYICDuYo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "بوت الأسئلة العامة في تيليجرام",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 12
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "ufYZrkVs3ziVNPaofqvXs_DepoQ",
+        "id": "PLkLIIYo0Lm4uNYoTATHA1TvrIWT4F_oNf",
+        "snippet": {
+          "publishedAt": "2021-07-08T20:34:07Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "سلسلة مراجعات ومناصحات",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MOx2R0IgtXI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MOx2R0IgtXI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MOx2R0IgtXI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MOx2R0IgtXI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "سلسلة مراجعات ومناصحات",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 51
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "xg1Uac7-eaA58cen7jrkHFUs7UU",
+        "id": "PLkLIIYo0Lm4s1qG2N3pyHZXydJ_-AcH1w",
+        "snippet": {
+          "publishedAt": "2021-06-20T09:58:02Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح الجامع في العقائد",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iyX8212BmTQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iyX8212BmTQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iyX8212BmTQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iyX8212BmTQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح الجامع في العقائد",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 144
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "ZJrE9gaDIZXQJNgt8rNk9l7PAXw",
+        "id": "PLkLIIYo0Lm4uvc42TqHDC2_dMUq_eH60Z",
+        "snippet": {
+          "publishedAt": "2021-06-20T07:55:00Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "مناقشات المخالفين",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cMgn66osj9s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cMgn66osj9s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cMgn66osj9s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cMgn66osj9s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "مناقشات المخالفين",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 110
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "nAZPFEdNHS4rozUMPCDNVFCxak0",
+        "id": "PLkLIIYo0Lm4vXSVZs6tJYBz-jKgvnfMxk",
+        "snippet": {
+          "publishedAt": "2021-04-14T10:57:02Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "خواطر قرآنية لطلبة العلم",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ovVraAjJikg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ovVraAjJikg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ovVraAjJikg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ovVraAjJikg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "خواطر قرآنية لطلبة العلم",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 30
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "Y64sEpGtbs6ugSn2f4UrFMks8cU",
+        "id": "PLkLIIYo0Lm4vnor27qJyZ_T90-mf_H8Ak",
+        "snippet": {
+          "publishedAt": "2021-04-10T12:01:25Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح كتاب الصمت لابن أبي الدنيا",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h1fBrcyaI8k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h1fBrcyaI8k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h1fBrcyaI8k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/h1fBrcyaI8k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح كتاب الصمت لابن أبي الدنيا",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 11
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "EPsEEwcZKWDDn8rfF-KOiO6vsUc",
+        "id": "PLkLIIYo0Lm4uFXTogy3QwdWDl6O8Pvhkn",
+        "snippet": {
+          "publishedAt": "2021-03-26T17:21:42Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح كتاب شرف أصحاب الحديث",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SWmV4HuGySE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SWmV4HuGySE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SWmV4HuGySE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SWmV4HuGySE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SWmV4HuGySE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح كتاب شرف أصحاب الحديث",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 6
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "ZhHD90AC0IQ-70y6tZ40pUW7urU",
+        "id": "PLkLIIYo0Lm4tkVz9bLVZ8ZXsvKoILy3S0",
+        "snippet": {
+          "publishedAt": "2021-03-24T11:53:30Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "نحو إعادة هيكلة عقل طالب العلم",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YfxvfWH7asE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YfxvfWH7asE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YfxvfWH7asE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YfxvfWH7asE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YfxvfWH7asE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "نحو إعادة هيكلة عقل طالب العلم",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 7
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "XHqkg2L8cmDBj1OVprpZeL0rehg",
+        "id": "PLkLIIYo0Lm4uJ0xAvIWkkqxDhtAEiC3Z8",
+        "snippet": {
+          "publishedAt": "2021-03-20T18:17:02Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "نحو إعادة هيكلة تفكير الفرد المسلم المعاصر",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jHWQefyk_tU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jHWQefyk_tU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jHWQefyk_tU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jHWQefyk_tU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "نحو إعادة هيكلة تفكير الفرد المسلم المعاصر",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 7
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "hcyrM3r0nH1dVcFjulsk-ZHn3PU",
+        "id": "PLkLIIYo0Lm4vLLM4M3yXQqrKmClshoVFf",
+        "snippet": {
+          "publishedAt": "2021-03-08T20:41:12Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح كتاب التمييز للحافظ مسلم",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1-QyXXDqQDQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1-QyXXDqQDQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1-QyXXDqQDQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1-QyXXDqQDQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1-QyXXDqQDQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح كتاب التمييز للحافظ مسلم",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 9
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "WAJTvgJe-ZqxTx68pegwK7iI2aw",
+        "id": "PLkLIIYo0Lm4vjNkaIav5huq1zJyw74vZ2",
+        "snippet": {
+          "publishedAt": "2021-02-17T09:04:55Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "كتاب العلم لأبي خيثمة",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WUpDyTd7Z1k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WUpDyTd7Z1k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WUpDyTd7Z1k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WUpDyTd7Z1k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WUpDyTd7Z1k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "كتاب العلم لأبي خيثمة",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 9
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "3nhAS7hWwZM4n9mSyeaieRtqq-o",
+        "id": "PLkLIIYo0Lm4tfe1UHOjAgaT-f-8pglv3C",
+        "snippet": {
+          "publishedAt": "2021-01-09T21:01:31Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "نقض الدارمي على المريسي",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ucCsV5s57Nc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ucCsV5s57Nc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ucCsV5s57Nc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ucCsV5s57Nc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "نقض الدارمي على المريسي",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 23
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "7iiWb9NMn8GY9obOHhV0TvzVAyQ",
+        "id": "PLkLIIYo0Lm4ui3Z-IWnpNsUQj6X6K5-FX",
+        "snippet": {
+          "publishedAt": "2021-01-02T17:21:21Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "سلسلة اقتباسات من كتب المعاصرين",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9DjEaws-mz0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9DjEaws-mz0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9DjEaws-mz0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9DjEaws-mz0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9DjEaws-mz0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "سلسلة اقتباسات من كتب المعاصرين",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 12
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "1Pn2NgHZeSXZA2uNEQQirj2kHjw",
+        "id": "PLkLIIYo0Lm4uNT9gamlSlUfSADeSCM1Gk",
+        "snippet": {
+          "publishedAt": "2020-12-03T21:11:06Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح مسند الحافظ الدارمي",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ibklk6DPZWg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ibklk6DPZWg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ibklk6DPZWg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ibklk6DPZWg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ibklk6DPZWg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح مسند الحافظ الدارمي",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 117
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "gzeQM3uWny_pllWKuI-TLpnVYK0",
+        "id": "PLkLIIYo0Lm4v-g-xmMVZZJb1kaoLTSPGT",
+        "snippet": {
+          "publishedAt": "2020-12-01T10:14:28Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "سلسلة دردشة حول مدرسة المنار",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Xgcd23dsxz8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Xgcd23dsxz8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Xgcd23dsxz8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Xgcd23dsxz8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Xgcd23dsxz8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "سلسلة دردشة حول مدرسة المنار",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 41
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "RaNELGE4-P3t4ko2FF6oPF5-Ez0",
+        "id": "PLkLIIYo0Lm4uTRJVRWbdQpmsptc1VwQ8K",
+        "snippet": {
+          "publishedAt": "2020-11-22T15:35:15Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح ثلاثة الأصول",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/i0ONykYW-M4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/i0ONykYW-M4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/i0ONykYW-M4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/i0ONykYW-M4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح ثلاثة الأصول",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 7
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "lUAJxtHJPiHs8Fn00ONOkRlQtOI",
+        "id": "PLkLIIYo0Lm4s8WNz08dEDLuiy6mNZ4uR5",
+        "snippet": {
+          "publishedAt": "2020-11-22T12:49:44Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "الدروس التثقيفية في علم الحديث",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dvM6XNB54_c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dvM6XNB54_c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dvM6XNB54_c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dvM6XNB54_c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dvM6XNB54_c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "الدروس التثقيفية في علم الحديث",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 67
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "d9qU72HMJMlig7AEmRVMvB2rctY",
+        "id": "PLkLIIYo0Lm4vdANFudfmxSSK5Nd09oys6",
+        "snippet": {
+          "publishedAt": "2020-10-09T11:07:18Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "سلسلة تباريح مع الغمارين",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YlaoRdLInF4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YlaoRdLInF4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YlaoRdLInF4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YlaoRdLInF4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YlaoRdLInF4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "سلسلة تباريح مع الغمارين",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 5
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "0u5J96yAUE8ECpIguHhtjUidcN0",
+        "id": "PLkLIIYo0Lm4sd0IpM3t2DwO38AE4OnAuL",
+        "snippet": {
+          "publishedAt": "2020-09-28T10:22:03Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح عمدة الفقه",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Yu-SOkzyP98/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Yu-SOkzyP98/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Yu-SOkzyP98/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Yu-SOkzyP98/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح عمدة الفقه",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 81
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "Qm5uHTl2WqtK1Z8AZaRYU9JBytk",
+        "id": "PLkLIIYo0Lm4ut475yMXs3w30Z3-wW1KCQ",
+        "snippet": {
+          "publishedAt": "2020-09-26T09:30:06Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح أخلاق حملة القرآن للإمام الآجري",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XJwpYqccobA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XJwpYqccobA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XJwpYqccobA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XJwpYqccobA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح أخلاق حملة القرآن للإمام الآجري",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 8
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "p8z75OgGK3Wa1xllgfc8skd69Y0",
+        "id": "PLkLIIYo0Lm4uDbUciqRiYuiTSwgTcHjfZ",
+        "snippet": {
+          "publishedAt": "2020-09-26T09:26:28Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح فضائل القرآن لأبي عبيد القاسم",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TTbdOpUWmJ0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TTbdOpUWmJ0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TTbdOpUWmJ0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TTbdOpUWmJ0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح فضائل القرآن لأبي عبيد القاسم",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 15
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "BbHVk3FD0YFjXN6vgHHOj8148RQ",
+        "id": "PLkLIIYo0Lm4s63kmB3IjH0XXbaXTbmbD4",
+        "snippet": {
+          "publishedAt": "2020-09-18T10:44:01Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح أصول السنة للإمام أحمد",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AZmPxIydFfY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AZmPxIydFfY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AZmPxIydFfY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AZmPxIydFfY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AZmPxIydFfY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح أصول السنة للإمام أحمد",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 27
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "w_jvabu7wsH_rdzZTozv0cGguIk",
+        "id": "PLkLIIYo0Lm4vWDfE_fSeysOC6XzfUUrye",
+        "snippet": {
+          "publishedAt": "2020-08-14T16:19:10Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "دروس بث مباشر",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dS0lXJDEOSw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dS0lXJDEOSw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dS0lXJDEOSw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dS0lXJDEOSw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "دروس بث مباشر",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 8
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "ugqBhAXgpLZu88cuZK6aB8u7nYE",
+        "id": "PLkLIIYo0Lm4sS0jhjejD1VXcI2zeX84lB",
+        "snippet": {
+          "publishedAt": "2020-07-26T21:30:51Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "مواد علمية متفرقة",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u7DsiL5_Exg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u7DsiL5_Exg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u7DsiL5_Exg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/u7DsiL5_Exg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "مواد علمية متفرقة",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 200
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "Hg3-dbj0eGRvdyvo-I7HVRacC_Q",
+        "id": "PLkLIIYo0Lm4srltQHEtweghqjMPqP6x0V",
+        "snippet": {
+          "publishedAt": "2020-05-10T23:06:41Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "لقاءات",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TGUOZ6kEcWE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TGUOZ6kEcWE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TGUOZ6kEcWE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TGUOZ6kEcWE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TGUOZ6kEcWE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "لقاءات",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 7
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "1bXgqrWfK4x5SssP_TWyr56_6tc",
+        "id": "PLkLIIYo0Lm4uLqkXJ6-q-_-SAHOi_QIEY",
+        "snippet": {
+          "publishedAt": "2020-05-09T23:26:11Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "فقه",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/latebYhGgOM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/latebYhGgOM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/latebYhGgOM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/latebYhGgOM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/latebYhGgOM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "فقه",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 4
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "cyabLPo_xLptF7jNVbUSa1Vv_cg",
+        "id": "PLkLIIYo0Lm4sIXxAIDyw4KbZSpHhODkDr",
+        "snippet": {
+          "publishedAt": "2020-05-01T01:55:24Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "أسئلة عامة مع عبد الله الخليفي",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bZeY1hhk1Ww/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bZeY1hhk1Ww/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bZeY1hhk1Ww/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bZeY1hhk1Ww/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "أسئلة عامة مع عبد الله الخليفي",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 21
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "GdR33UtDnE5Dd_KRIiSXbsEMk7c",
+        "id": "PLkLIIYo0Lm4tvXf4ZOoFgZ557KqxkM6TK",
+        "snippet": {
+          "publishedAt": "2020-04-16T17:28:43Z",
+          "channelId": "UC_KwLjBWENlAUnQxpBCd8TA",
+          "title": "شرح الأصول من علم الأصول",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3jdz_FO4Fks/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3jdz_FO4Fks/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3jdz_FO4Fks/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3jdz_FO4Fks/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3jdz_FO4Fks/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "المواد الصوتية عبد الله بن فهد الخليفي",
+          "localized": {
+            "title": "شرح الأصول من علم الأصول",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "itemCount": 15
+        }
+      }
+    ]
+  }
+  
